@@ -1,7 +1,5 @@
 // Konsep: Abstraction
-//
-// Penjelasan:
-// - Gunakan abstract class: tidak bisa dibuat objek langsung.
+// - abstract class: tidak bisa dibuat objek langsung.
 // - Method abstract harus di-override oleh child.
 
 abstract class Animal {

@@ -1,7 +1,5 @@
 // Konsep: Inheritance
-//
-// Penjelasan:
-// - Dog mewarisi dari Animal → punya semua method & properti Animal.
+// - Fish mewarisi dari Animal → punya semua method & properti Animal.
 // - Harus implementasi makeSound() karena abstract.
 
 import 'animal.dart';
