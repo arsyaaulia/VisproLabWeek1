@@ -9,6 +9,7 @@ import 'fish.dart';
 
 void main() {
   // Membuat object Person
+  
   var person = Person();
   person.name = 'Raib'; 
   person.age = 20;
