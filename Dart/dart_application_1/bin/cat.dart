@@ -1,6 +1,7 @@
 // Konsep: Polymorphism 
 // - Bisa simpan objek child ke variabel parent.
 // - makeSound() berperilaku beda tergantung objek.
+// - tidak bisa lepas dari inheriantce.
 
 import 'animal.dart';
 import 'fish.dart';
